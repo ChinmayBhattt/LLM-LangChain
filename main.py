@@ -1,4 +1,4 @@
-# LLM (Large Language Model)
+# LLM (Large Language Model), LangChain 
 import openai 
 import os
 from langchain.llms import OpenAI
